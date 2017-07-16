@@ -1,9 +1,10 @@
-## LoftSchool example project
+## About this app
+
+You can filtrate list of your friends from vk.com and save it.
 
 ### Доступные команды
 
-* `npm install` - установить зависимости
-* `npm run start` - запустить встроенный сервер и следить за изменениями файлов
-* `npm run build` - собрать проект в папку `build`
-* `npm run test` - запустить тесты
-* `npm run codestyle` - проверить стиль кода
+* `npm install` - install dependencies;
+* `npm run start` - launch server and watch changes of files;
+* `npm run build` - build project to `build` folder;
+* `npm run codestyle` - check code style.
